@@ -10,3 +10,5 @@ Els correladors acústics amb els que compta Aigües de Manresa han permès inic
 
 Gràcies a aquest sistema, per ara s'han pogut detectar i reparar set petites fuites a la xarxa, que d'altra manera haguessin estat molt difícils de localitzar. 
 
+La implementación de tecnologías como los correladores acústicos por parte de empresas como Aigües de Manresa para detectar y reparar fuentes de agua en la red de distribución es un excelente ejemplo de cómo la innovación puede contribuir a la gestión eficiente de recursos naturales tan críticos como el agua. La detección temprana de fugas, incluso las más pequeñas, no solo ayuda a conservar este recurso tan preciado, sino que también puede tener un impacto significativo en la reducción de pérdidas económicas y en la resiliencia de las comunidades frente a la escasez de agua, especialmente en momentos de sequía. Es un enfoque que no solo beneficia a la empresa y a sus clientes, sino que también tiene un impacto positivo en el medio ambiente y en la sostenibilidad a largo plazo de la gestión del agua
+
